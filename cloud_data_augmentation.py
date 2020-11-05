@@ -5,6 +5,7 @@ from tensorflow.python.keras.preprocessing import image
 # import json
 import os
 import imageio
+import h5py
 
 input_image= 300
 data_dir= "./swimseg-2/"
